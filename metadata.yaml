@@ -1,0 +1,34 @@
+_repo: Muslin_14659
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Rhone, Lady
+    - Moore, George Augustus
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: Hailed by Yeats as a masterpiece, this 1886 novel sheds light on the
+  Anglo-Irish marriage market. Moore offers a satiric yet sympathetic look at five
+  unmarried daughters of the Anglo-Irish gentry and details their desperate antics
+  to locate suitable husbands. Written with vivid and rich attention to period details,
+  the book is a prime example of Moore's innate ability to grasp women's issues.
+gutenberg_issued: '2005-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Fiction'
+- !lcc 'PR'
+title: Muslin
+url: http://www.gutenberg.org/ebooks/14659
